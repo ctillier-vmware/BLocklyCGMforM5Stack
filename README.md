@@ -4,7 +4,7 @@ So thanks to the help from my friends in a bunch of different tech companies, VM
 
 I created the M5 Scout. Here are my design goals:
 
- 1) Reuse as much of someone else's good tech so that I don’t have to rebuild it: Nightscout!
+ 1) Reuse as much of someone else's good tech so that I don’t have to rebuild it: Nightscout! https://github.com/nightscout/cgm-remote-monitor
  2) Leverage the most basic programming so I don’t have to learn to code: Blockly https://flow.m5stack.com/
  3) Have the ability to user a cheap product that can display Blood Glucose data all the time: M5Stack
 
